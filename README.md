@@ -1,6 +1,6 @@
 # Perdition's Gate: Flashback [1 Level, BOOM, DOOM 2]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: 🧊FROZEN
 
 ## Resources in use:
 - [WraithCorp Textures](https://github.com/dron12261games/RES-WraithCorpTex)
